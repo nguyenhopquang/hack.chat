@@ -1,4 +1,4 @@
-[![hack.chat screenshot](https://raw.githubusercontent.com/AndrewBelt/hack.chat/master/screenshot.png)](https://hack.chat/)
+Demo : http://hack.chat/
 
 ## Local install
 
